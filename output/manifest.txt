@@ -1,0 +1,34 @@
+# File Organization Summary
+Generated on: Sun Jun 22 18:54:20 EDT 2025
+
+## Data Files:
+total 672
+drwxr-xr-x  6 hades  staff     192 Jun 22 18:54 .
+drwx------@ 7 hades  staff     224 Jun 22 18:54 ..
+-rw-r--r--  1 hades  staff   75483 Jun 22 17:23 donors.dta
+-rw-r--r--@ 1 hades  staff   20950 Jun 22 17:23 donors_recipients.dta
+-rw-r--r--  1 hades  staff  229171 Jun 22 17:23 transplants.dta
+-rw-r--r--  1 hades  staff    9695 Jun 22 17:23 tx_yr.dta
+
+## Script Files:
+total 24
+drwxr-xr-x  5 hades  staff   160 Jun 22 18:54 .
+drwx------@ 7 hades  staff   224 Jun 22 18:54 ..
+-rw-r--r--@ 1 hades  staff   588 Jun 22 17:34 config.do
+-rw-r--r--@ 1 hades  staff   348 Jun 22 17:23 dir.sh
+-rw-r--r--@ 1 hades  staff  3458 Jun 22 18:50 just-click.do
+
+## Output Files:
+total 80
+drwxr-xr-x  6 hades  staff    192 Jun 22 18:54 .
+drwx------@ 7 hades  staff    224 Jun 22 18:54 ..
+-rw-r--r--  1 hades  staff    580 Jun 22 18:54 analysis_output.log
+-rw-r--r--  1 hades  staff   4856 Jun 22 18:54 just-click.log
+-rw-r--r--  1 hades  staff    760 Jun 22 18:54 manifest.txt
+-rw-r--r--  1 hades  staff  24045 Jun 22 18:54 survival_over50.png
+
+## Documentation:
+total 8
+drwxr-xr-x  3 hades  staff   96 Jun 22 18:54 .
+drwx------@ 7 hades  staff  224 Jun 22 18:54 ..
+-rw-r--r--  1 hades  staff  138 Jun 22 18:54 README.md
