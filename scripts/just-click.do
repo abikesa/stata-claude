@@ -86,5 +86,5 @@ noi di as result "   Run: tar -czf project_organized.tar.gz data scripts output 
 
 * 📦 Auto-package everything into ukb-project.tar.gz
 !tar -czf ukb-project.tar.gz data scripts output docs
-rm -rf data scripts output docs
+!rm -rf data scripts output docs
 noi di as result "✅ Created ukb-project.tar.gz - ready to send!"
